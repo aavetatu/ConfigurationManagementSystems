@@ -152,6 +152,9 @@ And tested if the connection works
 		10.0.2.15 192.168.88.102
 		
 Sources:
+
 https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/
+
 https://shellgeek.com/use-cat-equivalent-type-command-in-windows/
+
 https://www.sitepoint.com/getting-started-vagrant-windows/
